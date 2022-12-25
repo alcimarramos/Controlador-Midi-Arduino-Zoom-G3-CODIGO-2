@@ -3,6 +3,8 @@
 Controlador com <b>8 Pedais</b> para acessar <b>8 Patches</b>.<br>
 O Pedal <b>5</b> tem a função dedicada apenas de <b>Bank Down</b>.<br>
 O Pedal <b>10</b> tem a função dedicada apenas de <b>Bank Up</b>.<br>
+Usei LEDs programáveis, pela opção de poder usar os 10 em uma única porta Digital do Arduíno, pois com LEDs comuns não daria pra realizar o projeto no UNO.<br>
+<br>
 <br>
 <b>LISTA DE MATERIAIS:</b><br>
 1 Arduíno UNO<br>
